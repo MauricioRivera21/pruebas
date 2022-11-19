@@ -1,0 +1,6 @@
+35.93.71.149
+ec2-35-93-71-149.us-west-2.compute.amazonaws.com
+
+ssh -i key user@ip
+ssh -i key-cognitive2.pem ubuntu@35.93.71.149
+
