@@ -1,0 +1,10 @@
+18.236.218.34
+ec2-18-236-218-34.us-west-2.compute.amazonaws.com
+
+ssh -i key user@ip
+ssh -i key-cognitive2.pem ubuntu@18.236.218.34
+
+ssh -i keycognitive.pem ubuntu@34.221.0.239
+
+scp -i keycognitive.pem webb.zip ubuntu@34.221.0.239:/home/ubuntu
+
